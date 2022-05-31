@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	b = a + b;
 	a = b - a;
 	b = b - a;
-	
+	System.out.println("AAA...");
 	System.out.println("Value of a is: "+a);
 	System.out.println("Value of b is: "+b);
 
